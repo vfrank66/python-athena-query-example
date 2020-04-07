@@ -1,0 +1,6 @@
+awswrangler==0.3.2
+fsspec==0.6.3
+s3fs==0.4.0
+mypy
+pydocstyle
+PyAthena[Pandas]
